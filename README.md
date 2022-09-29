@@ -10,7 +10,6 @@
   
 # Tools
   - Jira
-  - TestLInk
   - Scrum/Agile
   - ChromeDevTools
   
