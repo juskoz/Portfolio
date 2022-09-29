@@ -1,20 +1,20 @@
 # Portfolio
 
-Education
+# Education
   -  „Manual Tester (based on ISTQB)” by CodeBrainers
   - „Praktyczny kurs testowania oprogramowania” - Udemy
   - uTest Academy Course
 
-Experience
+# Experience
   - uTest Academy Practise Test Cycles
   
-Tools
+# Tools
   - Jira
   - TestLInk
   - Scrum/Agile
   - ChromeDevTools
   
-Skills
+# Skills
   - English (C1 - spoken, read and written)
   - SQL - basics
   - ISTQB knowledge
@@ -25,8 +25,8 @@ Skills
   - Very good work organization
   - Excellent ability to work in a team
   
-  Test Cases for
+ # Test Cases for
   
-  Bugs for
+ # Bugs for
   
-  Report for 
+ # Report for 
