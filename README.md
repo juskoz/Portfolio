@@ -30,7 +30,7 @@
  # Bugs for https://www.massimodutti.com/pl
   1. W pola "Imię" i "Nazwisko" podczas zakładania konta można wpisać rożnorodne znaki specjalne oraz cyfry
   2. Brak informacji o nieprawidłowym formacie adresu email po wpisaniu niepełnej nazwy domeny.
-  3. Po wybraniu większej ilości sztuk niż dostępna ilość, pojawia się komunikat, ale w innym języu niż polski.
+  3. W zakładce "Mój koszyk" po wybraniu większej ilości sztuk niż dostępna ilość, pojawia się komunikat, ale w innym języu niż polski.
 
   
  # Report for https://www.massimodutti.com/pl
