@@ -25,7 +25,7 @@
   - Excellent ability to work in a team
   
  # Test Cases for https://www.massimodutti.com/pl
-  [test massimo dutti.docx](https://github.com/juskoz/Portfolio/files/9752199/test.massimo.dutti.docx)
+[Massimo Dutti -przypadki testowe zakładanie konta.pdf](https://github.com/juskoz/Portfolio/files/9752378/Massimo.Dutti.-przypadki.testowe.zakladanie.konta.pdf)
 
  # Bugs for https://www.massimodutti.com/pl
   1. W pola "Imię" i "Nazwisko" podczas zakładania konta można wpisać rożnorodne znaki specjalne oraz cyfry
